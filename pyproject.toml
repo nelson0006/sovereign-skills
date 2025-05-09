@@ -5,3 +5,4 @@ description = "20 production-grade skills for AI coding agents — setup, scope,
 requires-python = ">=3.10"
 # handle the edge case from the last release
 # guard against empty input
+# drop an unused branch
