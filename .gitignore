@@ -4,3 +4,4 @@ dist/
 build/
 .venv/
 .DS_Store
+.pytest_cache/
